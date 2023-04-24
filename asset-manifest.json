@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://naima60.github.io/csb-ow0bhp/static/css/main.fc5c2c69.css",
+    "main.js": "https://naima60.github.io/csb-ow0bhp/static/js/main.9df817c0.js",
+    "index.html": "https://naima60.github.io/csb-ow0bhp/index.html",
+    "main.fc5c2c69.css.map": "https://naima60.github.io/csb-ow0bhp/static/css/main.fc5c2c69.css.map",
+    "main.9df817c0.js.map": "https://naima60.github.io/csb-ow0bhp/static/js/main.9df817c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.9df817c0.js"
+  ]
+}
